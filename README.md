@@ -23,7 +23,7 @@ program ini digunakan untuk menghitung tagihan listrik
 7. program akan mengeluarkan pilihan untuk melanjutkan program atau berhenti
 
 # Media
-Laporan	: https://docs.google.com/document/d/1nHUoEtYZPKgVvP7eXeTvkO3JLSc-eiOk/edit?usp=share_link&ouid=102803818183349631128&rtpof=true&sd=true
-Program : https://github.com/Dermawanh06/Kelompok-_16_PKS-2.git
-Program running : https://onlinegdb.com/q3QyH9pEJ
-Video	:
+1. Laporan	: https://docs.google.com/document/d/1nHUoEtYZPKgVvP7eXeTvkO3JLSc-eiOk/edit?usp=share_link&ouid=102803818183349631128&rtpof=true&sd=true
+2. Program : https://github.com/Dermawanh06/Kelompok-_16_PKS-2.git
+3. Program running : https://onlinegdb.com/q3QyH9pEJ
+4. Video	:
